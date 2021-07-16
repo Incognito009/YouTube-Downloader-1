@@ -1,6 +1,6 @@
 {
-  "name": "Darlington",
-  "version": "1.0.0",
+  "name": "YouTube Downloader",
+  "version": "1.2.0",
   "description": "youtube downloader website",
   "main": "index.js",
   "dependencies": {
@@ -15,17 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneFusionPlus/YouTube-Downloader.git"
+    "url": "git+https://github.com/Kirodewal/YouTube-Downloader.git"
   },
   "keywords": [
     "youtube",
     "downloader",
     "ytdl"
   ],
-  "author": "Oshekher",
+  "author": "Kamlesh Kirodewal",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/OneFusionPlus/YouTube-Downloader/issues"
+    "url": "https://github.com/Kirodewal/YouTube-Downloader/issues"
   },
-  "homepage": "https://github.com/OneFusionPlus/YouTube-Downloader#readme"
+  "homepage": "https://github.com/Kirodewal/YouTube-Downloader#readme"
 }
